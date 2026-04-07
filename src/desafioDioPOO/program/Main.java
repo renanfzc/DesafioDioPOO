@@ -2,8 +2,6 @@ package desafioDioPOO.program;
 
 import java.time.LocalDate;
 
-import javax.annotation.processing.SupportedSourceVersion;
-
 import desafioDioPOO.entities.Curso;
 import desafioDioPOO.entities.Mentoria;
 
